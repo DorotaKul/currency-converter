@@ -10,6 +10,14 @@ html {
 
 .body {
     font-family: 'Montserrat', sans-serif;
+    background-image: url("../images/money_theme2.webp");
+    width: auto;
+    height: 1600 px;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    overflow: auto
 }
 
   
