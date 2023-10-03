@@ -13,11 +13,16 @@
     border-radius: 5px;
 }
 
+.form__field:hover {
+    background-color: hsl(60, 12%, 94%);
+}
+
 .form__button {
     width: 100%;
     border: none;
     background-color: hsl(39, 100%, 50%);
     color: hsl(0, 0%, 100%);
+    font-weight: bolder;
     padding: 10px;
     border-radius: 5px;
     cursor: pointer;
@@ -28,7 +33,7 @@
 }
 
 .form__button:active {
-    background-color:hsl(39, 100%, 40%);
+    background-color: hsl(39, 100%, 40%);
 }
 
 .form__fieldset {
@@ -36,22 +41,22 @@
     padding: 20px;
     border-radius: 5px;
     margin: 20px 0;
-    background-color: hsl(207, 74%, 50%);
+    background-color: transparent;
     color: hsl(0, 0%, 100%);
 }
 
 .form__legend {
     background-color: hsl(39, 100%, 50%);
     color: hsl(0, 0%, 100%);
+    font-weight: bolder;
     border-radius: 5px;
     padding: 10px;
-}
-
-.form__field:hover {
-    background-color: hsl(60, 12%, 94%);
 }
 
 .form__required {
     font-size: xx-small;
 }
 
+.form__result {
+    color: white;
+}
