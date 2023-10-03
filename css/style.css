@@ -10,6 +10,8 @@ html {
 
 .body {
     font-family: 'Montserrat', sans-serif;
+    width: auto;
+    background-image: url("../images/converter\ background.png");
 }
 
   
