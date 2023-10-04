@@ -11,7 +11,9 @@ html {
 .body {
     font-family: 'Montserrat', sans-serif;
     width: auto;
-    background-image: url("../images/converter\ background.png");
+    background-image: url("../images/backgroundImage.png");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
 }
-
-  
