@@ -17,3 +17,7 @@ html {
     background-attachment: fixed;
     background-size: cover;
 }
+
+.js-result {
+    color: white;
+}
