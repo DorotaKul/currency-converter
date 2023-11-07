@@ -6,7 +6,7 @@ This simple currency converter allows you to convert polish zloty (PLN) to ameri
 https://dorotakul.github.io/currency-converter/
 
 # Technologies used:
-HTML
-CSS
-BEM convention
-JS ES6
+- HTML
+- CSS
+- BEM convention
+- JS ES6
